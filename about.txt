@@ -1,0 +1,3 @@
+Name: AmruthaVarshini
+Course: BscDatascience
+GitHub is a platform for the projects
